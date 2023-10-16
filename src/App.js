@@ -9,7 +9,8 @@ function App() {
         <div className="card">
           <div className="card__header">
             <img src={CardPattern} alt="Background Pattern" className="bg-card" />
-            <img src={faceimage} alt="Victor's Image" className="card-face" />
+            <img src={faceimage} alt="Victor Crest's profile" className="card-face" />
+
             <div className="content">
             <div className="intro">
               <span className="head">Victor Crest</span>
